@@ -24,11 +24,11 @@ A lightweight Retrieval-Augmented Generation (RAG) pipeline built using Python a
 ---
 
 ##  Prerequisites & Installation
+**Output:**
+<img width="1212" height="571" alt="Terminal Output" src="https://github.com/user-attachments/assets/6490aa87-4ec2-48e7-aab1-2e82e2ddcfd6" />
 
 ### 1. Clone the repository
 ```bash
 git clone <your-github-repo-url>
 cd <your-repo-folder-name> ```
 
-**Output:**
-<img width="1212" height="571" alt="Terminal Output" src="https://github.com/user-attachments/assets/6490aa87-4ec2-48e7-aab1-2e82e2ddcfd6" />
